@@ -6,3 +6,7 @@
 3.	Ich möchte lernen besser mit SQL umgehen zu können, weil es immer noch eine meiner Schwächen ist obwohl es bis jetzt das spannendste war für mich.
 4.	Ein geeignetes Projekt wäre eine SQL-Datenbank zu erstellen und diese mit Daten zu befüllen und Tests auszuführen.
 ## 27.02.2024
+- [ ] Konzeptionelles Datenmodell mit Visualparadigm erstellen
+- [ ] Die Datenbank und die Tabellen in SQL codieren
+- [ ] Daten in die Datenbank mit Insert-into einfügen
+- [ ] Modul-117 abgaben erledigen
