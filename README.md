@@ -10,3 +10,4 @@
 - [ ] Die Datenbank und die Tabellen in SQL codieren
 - [ ] Daten in die Datenbank mit Insert-into einfügen
 - [ ] Modul-117 abgaben erledigen
+## 2.04.2024
